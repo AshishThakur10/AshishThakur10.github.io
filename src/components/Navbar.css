@@ -1,0 +1,39 @@
+/* Navbar container */
+.navbar {
+    background-color: #333;
+  }
+  
+  /* Navigation list */
+  .nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  /* Navigation items */
+  .nav-item {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-item a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  /* Media queries for responsiveness */
+  @media screen and (max-width: 768px) {
+    .nav-list {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .nav-item {
+      margin: 5px 0;
+    }
+  }
+  
