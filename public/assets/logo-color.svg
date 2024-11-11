@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1500" viewBox="0 0 1500 1500">
+    <rect width="1500" height="1500" fill="#ffffff00"></rect>
+    <g transform="matrix(0.6666666666666666,0,0,0.6666666666666666,249.39393939393938,513.0572500777897)">
+        <svg viewBox="0 0 396 187" preserveAspectRatio="xMidYMid meet" height="708" width="1500">
+            <g id="tight-bounds" transform="matrix(1,0,0,1,0.2400000000000091,0.37350473612991664)">
+                <svg viewBox="0 0 395.52 186.25299052774017" height="186.25299052774017" width="395.52">
+                    <g>
+                        <g transform="matrix(1,0,0,1,0,0)">
+                            <path d="M20 0 L20 -70 L40 -70 L40 0 Z M60 0 L60 -100 L80 -100 L80 0 Z" fill="blueviolet"></path>
+                        </g>
+                    </g>
+                </svg>
+            </g>
+        </svg>
+    </g>
+</svg>
