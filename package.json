@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "npm run build && npx angular-cli-ghpages --dir=dist/portfolio/browser --cname=www.ashishthakur.github.io --no-silent",
+    "deploy": "npm run build && npx angular-cli-ghpages --dir=dist/portfolio/browser --cname=www.ashishthakur10.github.io --no-silent",
     "lint": "ng lint"
   },
   "private": true,

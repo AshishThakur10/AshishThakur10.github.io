@@ -16,7 +16,7 @@ export class ProjectsComponent {
         'Developed a 2D platform game using the GODOT game engine with GD Script..',
       techList: ['GODOT', 'GDScript',],
       github: 'https://github.com/AshishThakur10/Farland',
-      screenshot: 'https://ibb.co/Ch12Yw5',
+      screenshot: '/assets/project/farland.png',
       live: 'https://ashdev.itch.io/farland',
     },
     
