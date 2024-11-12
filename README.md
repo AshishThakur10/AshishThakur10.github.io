@@ -4,7 +4,7 @@
   Live URL - https://www.ashishthakur.github.io
 </h1>
 
-![image](https://github.com/user-attachments/assets/eca26b0e-79d9-41f1-a09a-edeb16e1f207)
+
 
 ## 🛠 Installation & Set Up
 
