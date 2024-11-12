@@ -5,6 +5,7 @@ import { HeroComponent } from '../../../features/hero/hero.component';
 import { AboutComponent } from '../../../features/about/about.component';
 import { WorkExperienceComponent } from '../../../features/work-experience/work-experience.component';
 import { ProjectsComponent } from '../../../features/projects/projects.component';
+import { EducationComponent } from '../../../features/education/education.component';
 import { ContactComponent } from '../contact/contact.component';
 
 @Component({
@@ -17,6 +18,7 @@ import { ContactComponent } from '../contact/contact.component';
     AboutComponent,
     WorkExperienceComponent,
     ProjectsComponent,
+    EducationComponent,
     ContactComponent,
   ],
   templateUrl: './portfolio.component.html',

@@ -25,6 +25,7 @@ export class NavigationComponent implements OnInit {
     { href: '#about', title: 'About' },
     { href: '#experience', title: 'Experience' },
     { href: '#projects', title: 'Projects' },
+    { href: '#education', title: 'Education' },
     { href: '#contact', title: 'Contact' },
   ]);
 
